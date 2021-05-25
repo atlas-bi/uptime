@@ -6,13 +6,13 @@ sites:
   - name: atlas.bi
     url: https://www.atlas.bi
   - name: demo.atlas.bi
-    url: https://www.demo.atlas.bi
+    url: https://demo.atlas.bi
   - name: docs.atlas.bi
-    url: https://www.docs.atlas.bi
+    url: https://docs.atlas.bi
   - name: demo.extract.management
-    url: https://www.demo.extract.management
+    url: https://demo.extract.management
   - name: docs.extract.management
-    url: https://www.docs.extract.management
+    url: https://docs.extract.management
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
