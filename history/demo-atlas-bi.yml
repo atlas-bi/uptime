@@ -1,7 +1,7 @@
 url: https://demo.atlas.bi
-status: down
-code: 503
-responseTime: 247
-lastUpdated: 2021-06-08T19:51:30.757Z
+status: up
+code: 200
+responseTime: 15520
+lastUpdated: 2021-06-08T20:57:09.150Z
 startTime: Tue May 25 2021 21:09:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
