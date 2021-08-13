@@ -1,7 +1,7 @@
 url: https://demo.extract.management
-status: down
-code: 500
-responseTime: 366
-lastUpdated: 2021-08-12T23:19:40.104Z
+status: up
+code: 200
+responseTime: 491
+lastUpdated: 2021-08-13T13:30:55.608Z
 startTime: Tue May 25 2021 21:09:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
