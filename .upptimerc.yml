@@ -1,5 +1,5 @@
 # Change these first
-owner: Riverside-Healthcare # Your GitHub organization or username, where this repository lives
+owner: atlas-bi # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
@@ -7,8 +7,6 @@ sites:
     url: https://www.atlas.bi
   - name: demo.atlas.bi
     url: https://demo.atlas.bi
-  - name: docs.atlas.bi
-    url: https://docs.atlas.bi
   - name: demo.extract.management
     url: https://demo.extract.management
   - name: docs.extract.management
