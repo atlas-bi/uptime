@@ -21,7 +21,7 @@ status-website:
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/atlas-bi/upptime).
   navbar:
     - title: Status
-      href: /uptime/
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
