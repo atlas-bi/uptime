@@ -16,6 +16,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://atlas.bi/static/img/logo-192x192.png
   name: Atlas Uptime Montitor
+  cname: status.atlas.bi
   theme: light
   introTitle: "Atlas Uptime Montitor"
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/atlas-bi/upptime).
