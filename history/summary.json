@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 436,
-    "timeDay": 406,
-    "timeWeek": 376,
-    "timeMonth": 750,
-    "timeYear": 436,
+    "time": 438,
+    "timeDay": 560,
+    "timeWeek": 440,
+    "timeMonth": 758,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2022-03-09": 23,
       "2021-12-31": 26,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "45.00%",
-    "time": 7898,
-    "timeDay": 688,
-    "timeWeek": 3263,
-    "timeMonth": 4903,
-    "timeYear": 7898,
+    "time": 7872,
+    "timeDay": 664,
+    "timeWeek": 2996,
+    "timeMonth": 4780,
+    "timeYear": 7872,
     "dailyMinutesDown": {
       "2022-03-11": 1016,
       "2022-02-24": 16,
@@ -252,18 +252,18 @@
     "icon": "https://favicons.githubusercontent.com/atlas-hub.atlas.bi",
     "slug": "atlas-hub-atlas-bi",
     "status": "down",
-    "uptime": "5.93%",
-    "uptimeDay": "5.93%",
-    "uptimeWeek": "5.93%",
-    "uptimeMonth": "5.93%",
-    "uptimeYear": "5.93%",
+    "uptime": "1.91%",
+    "uptimeDay": "1.91%",
+    "uptimeWeek": "1.91%",
+    "uptimeMonth": "1.91%",
+    "uptimeYear": "1.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-08": 9
+      "2022-04-08": 28
     }
   }
 ]
