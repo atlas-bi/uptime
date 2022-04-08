@@ -10,10 +10,6 @@ sites:
   - name: atlas-hub.atlas.bi
     url: https://atlas-hub.atlas.bi
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /uptime
   logoUrl: https://atlas.bi/static/img/logo-192x192.png
   name: Atlas Uptime Montitor
   cname: status.atlas.bi
