@@ -35,7 +35,7 @@
     "icon": "https://favicons.githubusercontent.com/demo.atlas.bi",
     "slug": "demo-atlas-bi",
     "status": "up",
-    "uptime": "55.25%",
+    "uptime": "55.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "42.88%",
     "uptimeMonth": "86.72%",
@@ -223,8 +223,7 @@
       "2021-07-08": 58,
       "2021-07-07": 23,
       "2021-07-06": 45,
-      "2021-07-05": 49,
-      "2021-07-04": 23
+      "2021-07-05": 49
     }
   },
   {
@@ -233,11 +232,11 @@
     "icon": "https://favicons.githubusercontent.com/atlas-hub.atlas.bi",
     "slug": "atlas-hub-atlas-bi",
     "status": "up",
-    "uptime": "7.01%",
+    "uptime": "7.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "38.63%",
-    "uptimeMonth": "10.39%",
-    "uptimeYear": "7.01%",
+    "uptimeWeek": "40.10%",
+    "uptimeMonth": "10.73%",
+    "uptimeYear": "7.13%",
     "time": 11275,
     "timeDay": 22948,
     "timeWeek": 12620,
